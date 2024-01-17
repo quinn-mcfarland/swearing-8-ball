@@ -2,8 +2,8 @@
 import random
 
 #identify name and question here as well as set the random number generator.
-name = 'AJ'
-question = 'Will I be a millionaire?'
+name = ''
+question = ''
 answervar = random.randint(1,20) #This is the random number generator. It should be generating numbers between 1 and 9
 #print(str(answervar)) #Use this to test the randint variable. If all is well, comment out this line.
 
